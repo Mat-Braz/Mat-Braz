@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mateus Braz Vieira
 
-🚀 **Student of Web Developer | React Native & Java**  
+🚀 **Student of Web Development | React Native & Java**  
 🇧🇷 Brazil
 
 I build **websites**, **mobile apps**, and **web softwares**.  
